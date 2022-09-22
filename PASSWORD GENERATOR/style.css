@@ -1,0 +1,76 @@
+body {
+    position: absolute;
+    width: 550px;
+    height: 550px;
+    left: 62px;
+    top: 64px;
+    background: #1F2937;
+}
+.generate {
+    color: white;
+    margin-bottom: 0;
+    font-size: 40px;
+    line-height: 40px;
+
+}
+.random {
+    margin-top: 0;
+    color: #4ADF86;
+    font-size: 40px;
+    line-height: 40px;
+    margin-bottom: 0;
+}
+
+h3 {
+    margin-top: 2%;
+    color: #D5D4D8;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+}
+
+button {   
+    color: #2F3E53;
+    font-weight: 500;
+    font-size: 18px;
+    background-color: #10B981;
+    width: 191px;
+    height: 42px;
+    left: 52px;
+    top: 284px;
+    box-shadow: 0px 1px 2px rgb(0 0 0 / 5%);
+    border-radius: 6px;
+
+}
+button:hover {
+    border-color: white;
+}
+
+hr{
+    margin-top: 5%;
+    margin-right: 19%;
+    height: 1px;
+    background-color: #2F3E53;
+    border: none;
+}
+
+
+.password{
+    background-color: #2F3E53;
+    color: #10B981;
+    float: left;
+    width: 211px;
+    height: 39px;
+    border-radius: 6px;
+    margin-right: 5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 600;
+    font-size: 18px;
+    margin-top: 5%;
+
+}
+
+
+
